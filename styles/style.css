@@ -43,6 +43,11 @@
 .contacts {
   display: flex;
   flex-direction: column;
+  text-decoration: none;
+}
+
+.phone_num a, .mail a {
+  text-decoration: none; 
 }
 
 .phone_num {
