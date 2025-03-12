@@ -45,7 +45,8 @@
   text-decoration: none;
 }
 
-.phone_num_header a, .mail_header a {
+.phone_num_header a,
+.mail_header a {
   text-decoration: none;
 }
 
