@@ -9,10 +9,7 @@
 .logo_header {
   display: flex;
   position: relative;
-  margin-right: 196px;
-  margin-left: 47px;
-  margin-top: 94px;
-  margin-bottom: 103px;
+  margin: 94px 196px 103px 47px;
   height: 105px;
   width: 148px;
 }
@@ -274,6 +271,7 @@
   white-space: normal;
   z-index: 2;
 }
+
 .second_lots_content_title {
   font-family: "Raleway-Regular", sans-serif;
   font-size: 22px;
@@ -308,6 +306,7 @@
   white-space: normal;
   z-index: 2;
 }
+
 .third_lots_content_title {
   font-family: "Raleway-Regular", sans-serif;
   font-size: 22px;
@@ -511,6 +510,7 @@
   gap: 0;
   font-family: "Raleway-Regular", sans-serif;
 }
+
 .phone_num_footer {
   font-size: 18px;
   font-weight: 400;
