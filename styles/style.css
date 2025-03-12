@@ -6,6 +6,13 @@
   justify-content: space-between;
 }
 
+.menu_header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 392px;
+}
+
 .logo_header {
   display: flex;
   position: relative;
