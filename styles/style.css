@@ -8,13 +8,13 @@
 
 .logo_header {
   display: flex;
-  height: 105px;
-  width: 148px;
   position: relative;
   margin-right: 196px;
   margin-left: 47px;
   margin-top: 94px;
   margin-bottom: 103px;
+  height: 105px;
+  width: 148px;
 }
 
 .menu_header {
@@ -46,7 +46,7 @@
 }
 
 .phone_num_header a, .mail_header a {
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 .phone_num_header {
@@ -532,7 +532,7 @@
   white-space: nowrap;
 }
 
-.home_address_footer{
+.home_address_footer {
   font-size: 18px;
   font-family: "Raleway-Regular", sans-serif;
 }
