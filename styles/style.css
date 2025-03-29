@@ -370,6 +370,7 @@ button:hover {
   width: 100%;
   justify-content: space-evenly;
   flex-direction: row;
+  padding-bottom: 80px;
 }
 
 .footer ul {
