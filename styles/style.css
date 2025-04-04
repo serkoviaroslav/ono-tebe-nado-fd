@@ -328,6 +328,7 @@ button:hover {
   position: relative;
   display: grid;
   grid-template-rows: [first]28%;
+  overflow-x: hidden;
 }
 
 .about_logo {
@@ -387,6 +388,7 @@ button:hover {
   width: 100%;
   padding-left: 0;
   padding-right: 0;
+  margin-right: 0;
 }
 
 .about_paragraph {
@@ -396,6 +398,8 @@ button:hover {
   width: 100%;
   text-wrap: wrap;
   margin-left: -12%;
+  margin-right: 0;
+  padding-right: 0;
 }
 
 .about_paragraph :last-child {
@@ -466,4 +470,8 @@ button:hover {
   text-align: center;
   position: relative;
   right: 1%;
+}
+
+* {
+  outline: 1px solid red;
 }
