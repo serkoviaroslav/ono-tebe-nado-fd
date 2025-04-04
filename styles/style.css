@@ -471,7 +471,3 @@ button:hover {
   position: relative;
   right: 1%;
 }
-
-* {
-  outline: 1px solid red;
-}
