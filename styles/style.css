@@ -221,7 +221,7 @@ button:hover {
   margin-right: 0;
   margin-left: 0;
   align-content: space-between;
-  margin-top: 2.1%;
+  margin-top: 2.5%;
 }
 
 .frame {
@@ -229,7 +229,7 @@ button:hover {
   width: 30%;
   min-height: 596px;
   position: relative;
-  z-index: -1;
+  z-index: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -299,7 +299,6 @@ button:hover {
   padding-left: 0;
   padding-right: auto;
   padding-bottom: 0;
-  margin-top: auto;
   text-align: left;
   width: 100%;
   height: auto;
@@ -357,7 +356,6 @@ button:hover {
 
 .about_content {
   position: relative;
-  padding-left: 34%;
   grid-column: 2;
   padding-left: 5%;
   margin-top: 20%;
@@ -405,7 +403,7 @@ button:hover {
 }
 
 .footer {
-  margin-top: 140px;
+  margin-top: 135px;
   display: flex;
   position: relative;
   height: auto;
