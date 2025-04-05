@@ -197,7 +197,6 @@ button {
   margin-left: 10%;
   height: 32.3%;
   width: 24.5%;
-  
 }
 
 button:hover {
@@ -300,7 +299,6 @@ button:hover {
   height: auto;
   display: flex;
   margin-top: auto;
-
 }
 
 .more {
@@ -336,7 +334,7 @@ button:hover {
   margin-top: 15%;
   margin-left: 5%;
 }
- 
+
 .about_logo img {
   width: 62%;
   height: auto;
@@ -345,8 +343,8 @@ button:hover {
   left: 32%;
   transform: translate(-50%, -50%);
 }
- 
-.about_content{
+
+.about_content {
   width: 72%;
   padding-left: 6.5%;
   padding-top: 24.5%;
@@ -368,7 +366,7 @@ button:hover {
   position: relative;
   padding-top: 11%;
 }
- 
+
 .about_paragraph {
   font-family: "Raleway", sans-serif;
   font-size: 20px;
@@ -376,7 +374,7 @@ button:hover {
   width: 99.6%;
   text-wrap: wrap;
 }
- 
+
 .about_paragraph :last-child {
   margin-bottom: 0;
 }
